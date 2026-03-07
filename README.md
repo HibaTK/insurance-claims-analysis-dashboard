@@ -88,8 +88,9 @@ This page provides a high-level summary of claim financial performance.
 - Claim outcomes are evenly distributed, with 33.8% approved, 33.6% denied, and the remainder pending review.
 - The 12-month rolling average of claim payouts remains stable, indicating consistent financial exposure over time.
 - Pediatrics represents the highest cost specialty, contributing $4.8M (21.7%) of total claim value, while other specialties show similar cost contributions.
+  
 
-- *2.Cost Drivers & Risk Segmentation*
+-  *2.Cost Drivers & Risk Segmentation*
   
 This page identifies where claim costs originate and which demographic segments represent higher financial risk.
 
@@ -106,6 +107,7 @@ This page identifies where claim costs originate and which demographic segments 
 - The 25–39 age group contributes the lowest claim share (12.3%).
 - High-income patients generate 56.4% of total claim value, indicating higher treatment utilization or claim severity within this segment.
 - Procedure nR774 ($17.8K) and diagnosis Vy109 ($15.7K) represent the highest individual cost concentrations.
+
 
 - *3. Denial & Operational Efficiency*
   
