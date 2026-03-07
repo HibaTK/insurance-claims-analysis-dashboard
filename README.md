@@ -49,6 +49,7 @@ The dataset was structured using a star schema to improve analytical clarity and
 ### Tables
 *Fact Table*
 - FactClaims
+  
 *Dimension Tables*
 - DimPatient
 - DimProvider
