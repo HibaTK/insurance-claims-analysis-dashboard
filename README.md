@@ -72,6 +72,7 @@ Several analytical measures were created using DAX:
 ## Dashboard Pages
 
 - *1. Financial Overview*
+  
 This page provides a high-level summary of claim financial performance.
   
 *Key elements include*
@@ -89,6 +90,7 @@ This page provides a high-level summary of claim financial performance.
 - Pediatrics represents the highest cost specialty, contributing $4.8M (21.7%) of total claim value, while other specialties show similar cost contributions.
 
 - *2.Cost Drivers & Risk Segmentation*
+  
 This page identifies where claim costs originate and which demographic segments represent higher financial risk.
 
 *Key analyses include*
@@ -106,6 +108,7 @@ This page identifies where claim costs originate and which demographic segments 
 - Procedure nR774 ($17.8K) and diagnosis Vy109 ($15.7K) represent the highest individual cost concentrations.
 
 - *3. Denial & Operational Efficiency*
+  
 This page analyzes claim processing performance and operational efficiency.
 
 *Key analyses include*
