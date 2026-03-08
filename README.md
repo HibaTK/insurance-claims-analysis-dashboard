@@ -36,7 +36,7 @@ The dataset contains 4,500 insurance claims with information about patients, pro
 | ProcedureCode         | Medical procedure performed                               |
 | PatientAge            | Age of the patient                                        |
 | PatientGender         | Gender of the patient                                     |
-| PatientIncome         | Income bracket of the patient                             |
+| PatientIncome         | Income of the patient                             |
 | ProviderSpecialty     | Medical specialty of the provider                         |
 | ProviderLocation      | Geographic location of provider                           |
 | ClaimStatus           | Approved, Denied, or Pending                              |
